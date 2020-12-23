@@ -1,6 +1,6 @@
 # Moodify
 
-Moodify is an interactive digital platform that uses your music to generate mood playlists customized to your specifications. You can use Moodify right now at [bit.ly/Moodify](bit.ly/Moodify).
+Moodify is an interactive digital platform that uses your music to generate mood playlists customized to your specifications. You can use Moodify right now at [bit.ly/Moodify](https://bit.ly/Moodify).
 
 ## Problem
 We created Moodify because we saw a gap in the market for playlist creation: Spotify’s pre-curated mood playlists aren’t personalized, there’s no way to automatically make a playlist, and Spotify has an abundance of audio data about their music available through their API, but it’s largely inaccessible without coding. 
