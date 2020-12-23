@@ -12,21 +12,11 @@ import Documentation from './components/documentation';
 const spotifyApi = new SpotifyWebApi();
 
 /* 
-Post-Deployment Changes
--Create public/private option (DONE)
--Change "max songs" to "number of songs" (DONE)
--Change algorithm for happy (DONE)
--Make it so duplicates don't appear
+DESIRED CHANGES
 -Let user select album art
--Make instructions clearer
+-Make instructions clearer for user
 -Add "go to playlist" button after completion
 -Make description box long text instead of short text
-
-library documentation: 
-https://doxdox.org/jmperez/spotify-web-api-js#src-spotify-web-api.js-constr.prototype.getme
-
-palette:
-https://www.color-hex.com/color-palette/53188
 */
 
 class App extends Component {
