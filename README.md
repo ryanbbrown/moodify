@@ -15,4 +15,5 @@ We created Moodify because we saw a gap in the market for playlist creation: Spo
 
 In these charts, you can see that energy (orange bar) is much higher for the workout playlist as compared to the sad playlist, while the opposite is true for acousticness (blue bar). These are examples of audio data we would use in our algorithm to identify a particular mood.
 
+---
 *Moodify was created as a product for Texas Convergent’s Data Analysis build team, and on demo day it won “best tech” out of 16 teams. Our pitch deck can be accessed [here](https://docs.google.com/presentation/d/1Pgp-dAD6iWmNNCP29KKCCfbY7YP035VXur6w7aOtTfY/edit?usp=sharing).*
